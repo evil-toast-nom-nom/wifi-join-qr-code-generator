@@ -16,7 +16,7 @@ Just run:
 ```python -m pip install -r requirements.txt```
 
 ### Configure the script
-Edit the following values:
+Edit the following values:  
 ```"my wifi name"```  
 ```"my wifi password"```  
 ```"WPA"``` if you use something other than WPA  
